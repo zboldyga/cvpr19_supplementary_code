@@ -1,1 +1,1 @@
-# cvpr19_supplementary_code
+# CVPR 2019 Supplementary Code
